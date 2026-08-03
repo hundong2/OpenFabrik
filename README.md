@@ -10,7 +10,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[Quick Start](#quick-start) • [Pipelines](#pipelines) • [Examples](#examples) • [Documentation](#documentation) • [Community](#community)
+[Quick Start](#quick-start) • [Pipelines](#pipelines) • [Examples](#examples) • [Documentation](#documentation) • [한국어](README_kor.md) • [한국어 가이드](guide/README.md) • [Community](#community)
 
 </div>
 
